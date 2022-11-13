@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in Coding(Web Designing & Development)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Graphic Designing
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me (vishalagrahari8874@gmail.com)
 
